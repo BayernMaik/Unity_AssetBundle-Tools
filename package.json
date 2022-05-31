@@ -1,0 +1,22 @@
+{
+  "name": "com.assetbundletools.editor",
+  "version": "0.0.1",
+  "displayName": "Asset Bundle Tools",
+  "description": "This Package contains a AssetBundle Editor Tool",
+  "unity": "2021.3",
+  "unityRelease": "2f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "Asset Bundle",
+    "Builder",
+    "Editor Tool"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
